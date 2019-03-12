@@ -1,0 +1,14 @@
+/user/share/maven/conf/setting.xml 
+
+<proxies>
+<proxy>
+<id>optional</id>
+<active>true</active>
+<protocol>http</protocol>
+<username></username>
+<password></password>
+<host>genproxy.amdocs.com</host>
+<port>8080</port>
+<nonProxyHosts>local.net|some.host.com</nonProxyHosts>
+</proxy>
+</proxies>
